@@ -1,4 +1,4 @@
-# Course Syllabus
+# 11. Generative AI - Elevate Your Data Science Career
 ## Abstract
 The landscape of data science is undergoing a dramatic transformation, fueled by the rise of a powerful new tool: generative AI. This cutting-edge technology transcends the traditional role of data analysis, venturing beyond the realm of extracting insights from existing data and into the realm of creation. Generative AI empowers data scientists to generate entirely new data, unlocking a universe of possibilities and tackling previously insurmountable challenges.
 
