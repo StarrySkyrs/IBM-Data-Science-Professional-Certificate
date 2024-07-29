@@ -20,7 +20,5 @@ The IBM Data Science Professional Certificate consists of 12 online courses that
 | 9.     | [Machine Learning with Python](09.%20Machine%20Learning%20with%20Python/)                                        |
 | 10.    | [Applied Data Science Capstone](10.%20Applied%20Data%20Science%20Capstone/)                                      |
 | 11.    | [Generative AI: Elevate Your Data Science Career](11.%20Generative%20AI%20-%20Elevate%20Your%20Data%20Science%20Career/)   |
-| 12.    |                                                   |
+| 12.    | [Data Scientist Career Guide and Interview Preparation](12.%20Data%20Scientist%20Career%20Guide%20and%20Interview%20Preparation/)    |
 
-
-## Good Learning Resources
